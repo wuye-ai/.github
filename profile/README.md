@@ -1,5 +1,7 @@
 # CRIC物业AI
 
+[![Official Website](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-gray?label=%F0%9F%8F%A0)](https://wuye-ai.cricbigdata.com)
+
 ## 简介
 
 **CRIC物业AI** 是 [克而瑞](http://www.cricchina.com/) 专为物业行业打造的智能 AI 助理，于2025年4月25日 [正式发布](https://mp.weixin.qq.com/s/GC4V1M6N199Ay2f3kZan_Q)。
